@@ -20,23 +20,24 @@ Here's a summary of the stages of the machine learning process:
 5. Model Tuning: I fine-tuned hyperparameters of the selected models to optimize their performance and generalization capabilities.
 
 ## Results
-*Machine Learning Model 1:
-    *Classification Report:
-        -Precision for healthy loans (label 0): 1.00
-        -Precision for high-risk loans (label 1): 0.85
-        -Recall for healthy loans (label 0): 0.99
-        -Recall for high-risk loans (label 1): 0.91
-        -F1-score for healthy loans (label 0): 1.00
-        -F1-score for high-risk loans (label 1): 0.88
-        -Accuracy: 0.99
-        -Macro average precision: 0.92
-        -Macro average recall: 0.95
-        -Macro average F1-score: 0.94
-        -Weighted average precision: 0.99
-        -Weighted average recall: 0.99
-        -Weighted average F1-score: 0.99
-        -Total support: 19384
-
+```
+* Machine Learning Model 1:
+    * Classification Report:
+        - Precision for healthy loans (label 0): 1.00
+        - Precision for high-risk loans (label 1): 0.85
+        - Recall for healthy loans (label 0): 0.99
+        - Recall for high-risk loans (label 1): 0.91
+        - F1-score for healthy loans (label 0): 1.00
+        - F1-score for high-risk loans (label 1): 0.88
+        - Accuracy: 0.99
+        - Macro average precision: 0.92
+        - Macro average recall: 0.95
+        - Macro average F1-score: 0.94
+        - Weighted average precision: 0.99
+        - Weighted average recall: 0.99
+        - Weighted average F1-score: 0.99
+        - Total support: 19384
+```
 Accuracy Score: The overall accuracy of the model is 0.99, indicating a high level of correct predictions.
 
 Precision Score:
